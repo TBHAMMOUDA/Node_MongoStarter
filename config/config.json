@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "MongoURI":"mongodb://localhost:32770/datasrc"
+  },
+  "test": {
+    "MongoURI":"mongodb://localhost:32770/datasrc"
+  },
+  "production": {
+    "MongoURI":"mongodb://localhost:32770/datasrc"
+  }
+}
